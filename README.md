@@ -1,6 +1,6 @@
-Hello-World
+## Hello-World
 ===========
 
-Hello World. My first repository.
+### Hello World. My first repository.
 
 Testing github functionality.
